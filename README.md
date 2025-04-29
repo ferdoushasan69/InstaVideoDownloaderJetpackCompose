@@ -33,4 +33,6 @@ To scrape and download Instagram videos efficiently.
 ⚡ Hilt:
 For dependency injection, promoting loose coupling and better testability.
 
+//fixed all device perission handling issues
+
 Apk link : https://drive.google.com/file/d/1SI6TEkSqagFiQSCDBRGUtWNGIB3XetiJ/view?usp=sharing
